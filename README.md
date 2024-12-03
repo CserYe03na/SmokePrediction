@@ -2,7 +2,7 @@
 - `README.md`: The markdown file containing instructions and a project overview.
 - `train.csv`: traning dataset with the binary target smoking and bio-signals that had been proposed to identify smokers who had a better chance of quitting
 - `test.csv`: test dataset to predict the probability of positive smoking
-- `Cali Fire and AQI.ipynb`: the working jupyter notebook file with data loading, EDA, data preprocessing, and prediction analysis. Please see this file for the project details!!
+- `SmokingPrediction.ipynb`: the working jupyter notebook file with data loading, EDA, data preprocessing, and prediction analysis. Please see this file for the project details!!
 ## Project Overview
 It is a kaggle competition: https://www.kaggle.com/competitions/short-term-paper-4/overview
 Our task is to use binary classification to predict a patient's smoking status given information about various other health indicators.
