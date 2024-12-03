@@ -1,4 +1,4 @@
-# SmokePrediction
+# Smoke Prediction
 - `README.md`: The markdown file containing instructions and a project overview.
 - `train.csv`: traning dataset with the binary target smoking and bio-signals that had been proposed to identify smokers who had a better chance of quitting
 - `test.csv`: test dataset to predict the probability of positive smoking
